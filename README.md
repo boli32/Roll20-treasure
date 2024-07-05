@@ -1,5 +1,10 @@
 # Roll20-treasure
-Api scripts
+Api script
+
+required mods to work: 
+
+* recursive tables
+* export table 
 
 after you import the tables run:
 
